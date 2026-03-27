@@ -1,9 +1,0 @@
-pip install streamlit
-streamlit hello
-python -m pip install --upgrade pandas==3.0.*
-pip install plotly==5.18.0
-pip install altair==5.2.0
-pip install python-dotenv==1.0.0
-pip install pymongo
-pip install bcrypt
-
